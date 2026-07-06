@@ -1,0 +1,2 @@
+Cabecera del ciclo del for en el ejemplo
+0
